@@ -1,0 +1,41 @@
+{
+	"connected" : 
+	{
+		"IPv4" : "169.237.6.102"
+	},
+	"description" : "frozen",
+	"location" : 
+	{
+		"latitude" : 38.672215864622636,
+		"longitude" : -121.72280111121437
+	},
+	"model" : "HUVUDROLL",
+	"owner" : 
+	{
+		"SSN" : "987654321",
+		"home" : 
+		{
+			"latitude" : 38.672215864622636,
+			"longitude" : -121.72280111121437
+		},
+		"location" : 
+		{
+			"latitude" : 38.58681641563053,
+			"longitude" : -121.55296296578501
+		},
+		"name" : "Felix",
+		"since_when" : 
+		{
+			"time" : "2022-11-07T22:37:07+0000"
+		}
+	},
+	"purchased" : 
+	{
+		"time" : "2022-11-07T22:37:07+0000"
+	},
+	"sequence_num" : "123456-0000",
+	"sold" : 
+	{
+		"time" : "2022-11-07T22:37:07+0000"
+	}
+}

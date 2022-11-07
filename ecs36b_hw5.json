@@ -1,0 +1,19 @@
+[
+    {
+        "name": "dump2JSON",
+        "params": {
+            "action": "remote_call",
+            "host_url": "1234567890",
+	    "class_id": "transaction",
+	    "object_id": "0000000001",
+	    "arguments": "jsonstr"
+        },
+        "returns": {
+            "action": "call",
+            "host_url": "1234567890",
+	    "class_id": "transaction",
+	    "object_id": "0000000001",
+	    "response": "jsonstr"
+        }
+    }
+]

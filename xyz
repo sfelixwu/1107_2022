@@ -1,0 +1,39 @@
+
+Vehicle
+
+
+Autonoumous Vehicle
+
+
+Car                      Motorcycle
+
+"is-a"
+
+An Auto V is a Vehicle
+class AutoV : public Vihicle
+{
+};
+
+
+
+class Autono {
+   model
+   class Robot robot1
+   class Person driver
+   
+   points
+   
+   alert()
+};
+
+class Car : public Autono {
+   pass1
+   pass2
+   pass3
+
+
+};
+
+class Motor : public Autono {
+   pass1
+};
